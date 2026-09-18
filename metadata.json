@@ -1,0 +1,6 @@
+{
+  "name": "Vulcan Learning Portal",
+  "description": "A modern minimalist learning and assessment platform with intuitive bottom navigation, performance metrics, test tracking, and score trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
